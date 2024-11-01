@@ -2,6 +2,6 @@
 ## Ingredients
 * Pumpkin
 * Sugar
-* Crust
+* Cinnamon
 * Eggs
 ## Instructions
