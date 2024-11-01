@@ -5,3 +5,4 @@
 * Cinnamon
 * Eggs
 ## Instructions
+Cook at 1000 degree
